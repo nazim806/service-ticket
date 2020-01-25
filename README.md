@@ -12,3 +12,5 @@ lets you automate routine support tasks to increase the efficiency of your team 
 
 
 This app was made by using HTML, Javascript and chancejs for global unique identifier.
+
+This app can be used as an issue tracker that can be used on any website for creating issues,for example, with software products.
